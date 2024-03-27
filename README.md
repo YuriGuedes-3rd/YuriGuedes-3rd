@@ -1,5 +1,7 @@
 Hi 👋, I'm Yuri Guedes and welcome to my Github profile
+
 I am a Web Developer Professional and a Sofwatare Programmer based in Mozambique, Maputo.
+
 🔭 I’m currently working as Freelancer at for local Company's and i'm a student at Engeneering University UEM
 
 🌱 I’m currently learning React Native, Data Analytics and Cyber Security
