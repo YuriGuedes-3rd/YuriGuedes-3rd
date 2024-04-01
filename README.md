@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yuri Guedes</h1>
 <h3 align="center">Web Developer Professional and a Software Programmer based in Mozambique, Maputo.</h3>
 
-- 🔭 I’m currently working on **Freelancer at for local Company's and i'm a student at Engeneering University UEM**
+- 🔭 I’m currently working on **Freelancer for local Company's and i'm a student at Engeneering University UEM**
 
 - 🌱 I’m currently learning **React Native, Data Analytics and Cyber Security.**
 
